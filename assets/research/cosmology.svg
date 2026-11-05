@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="240" viewBox="0 0 420 240" role="img" aria-labelledby="title">
+  <title id="title">Two consequences of primordial scalar perturbations</title>
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="10" cy="10" r=".65" fill="#aac5b5" opacity=".25"/></pattern>
+    <marker id="tip" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="6" markerHeight="6" orient="auto"><path d="M1 1l6 3-6 3" fill="none" stroke="#bed2be" stroke-linejoin="round" stroke-linecap="round"/></marker>
+  </defs>
+  <rect width="420" height="240" fill="#103e40"/><rect width="420" height="240" fill="url(#grid)"/>
+  <g fill="none" stroke="#bed2be" stroke-width="1.5" marker-end="url(#tip)">
+    <path d="M134 118C165 118 161 66 192 66h10"/>
+    <path d="M134 118c31 0 27 56 58 56h10"/>
+  </g>
+  <circle cx="134" cy="118" r="4" fill="#e6be80"/>
+  <g font-family="Arial, sans-serif">
+    <g fill="#f3f3df" font-size="17" font-weight="500"><text x="21" y="115">Primordial</text><text x="21" y="137">scalar modes</text></g>
+    <g fill="#dcc39a" font-size="13.5"><text x="215" y="59">Rare peaks collapse</text><text x="215" y="167">Second-order sourcing</text></g>
+    <g fill="#f3f3df" font-size="17" font-weight="500"><text x="215" y="82">Primordial black holes</text><text x="215" y="189">Induced gravitational</text><text x="215" y="211">waves</text></g>
+  </g>
+</svg>

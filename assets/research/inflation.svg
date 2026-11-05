@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="240" viewBox="0 0 420 240" role="img" aria-labelledby="title">
+  <title id="title">Tangent and normal directions along a curved two-field inflationary trajectory</title>
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="10" cy="10" r=".65" fill="#aac5b5" opacity=".25"/></pattern>
+    <marker id="tip" viewBox="0 0 8 8" refX="6.7" refY="4" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M1 1l6 3-6 3" fill="none" stroke="#e6be80" stroke-linecap="round" stroke-linejoin="round"/></marker>
+  </defs>
+  <rect width="420" height="240" fill="#103e40"/><rect width="420" height="240" fill="url(#grid)"/>
+  <path d="M58 47v143h316" fill="none" stroke="#73998c" stroke-width="1"/>
+  <text x="49" y="34" fill="#c6d6c7" font-family="Arial, sans-serif" font-size="15">Field 2</text>
+  <text x="336" y="215" fill="#c6d6c7" font-family="Arial, sans-serif" font-size="15">Field 1</text>
+  <path d="M71 151C115 167 164 166 201 135c37-31 35-71 57-105" fill="none" stroke="#b9d3bd" stroke-width="2.4" stroke-linecap="round"/>
+  <g stroke="#e6be80" fill="none" stroke-width="1.8" marker-end="url(#tip)"><path d="M201 135l65-54.46"/><path d="M201 135l-43-51.32"/></g>
+  <circle cx="201" cy="135" r="4.3" fill="#e6be80"/>
+  <g fill="#f1f1df" font-family="Arial, sans-serif" font-size="16"><text x="277" y="84">Tangent</text><text x="108" y="73">Normal</text></g>
+</svg>

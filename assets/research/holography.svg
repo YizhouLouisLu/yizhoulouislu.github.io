@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="240" viewBox="0 0 420 240" role="img" aria-labelledby="title">
+  <title id="title">A boundary interval and its geodesic on a spatial slice of AdS</title>
+  <defs><pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="10" cy="10" r=".65" fill="#aac5b5" opacity=".25"/></pattern></defs>
+  <rect width="420" height="240" fill="#103e40"/><rect y="54" width="420" height="186" fill="url(#grid)"/>
+  <path d="M109 54a101 101 0 0 0 202 0Z" fill="#c2d3b7" opacity=".065"/>
+  <path d="M23 54h374" fill="none" stroke="#8fae9f" stroke-width="1.1"/>
+  <path d="M109 54h202" fill="none" stroke="#e6be80" stroke-width="2.6"/>
+  <path d="M109 54a101 101 0 0 0 202 0" fill="none" stroke="#c8dbc5" stroke-width="2.4"/>
+  <g fill="#e6be80"><circle cx="109" cy="54" r="3.7"/><circle cx="311" cy="54" r="3.7"/></g>
+  <path d="M210 161v14" fill="none" stroke="#8fae9f" stroke-width="1"/>
+  <g text-anchor="middle" font-family="Arial, sans-serif" font-size="16"><text x="210" y="38" fill="#ebce9e">Boundary interval</text><text x="210" y="198" fill="#f1f1df">Bulk geodesic</text></g>
+</svg>
